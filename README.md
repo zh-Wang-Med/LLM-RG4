@@ -19,15 +19,15 @@ Drafting radiology reports is a complex task requiring flexibility, where radiol
 ![fig4](https://github.com/user-attachments/assets/d2d36190-018f-48bf-8e3c-ffa1e86807a3)
 
 # Dataset and Weight
-MIMIC-RG4 dataset (text annotation) is in https://drive.google.com/file/d/1X8V1H6oxxGfutGsLFofXDzvOnoq7BEyf/view?usp=sharing
+MIMIC-RG4 dataset (text annotation) is in https://cloud.tsinghua.edu.cn/d/aa765a7098354880aaf2/ and https://cloud.tsinghua.edu.cn/d/dc636438c272481681ed/
 
 you can download the images from https://physionet.org/content/mimic-cxr-jpg/2.0.0/
 
-The weight of DiscBERT is in https://drive.google.com/file/d/10xYpIvT3UXQ4W7X8IPYEGRNoJ_Ra4n_I/view?usp=sharing
+The weight of DiscBERT is in https://cloud.tsinghua.edu.cn/d/c5734b56b44d43e089a6/
 
-The weight of LLM-RG4 which can predict finding and impression (MIMIC-RG4) is in https://drive.google.com/file/d/1eZMOEhgSmCt7VAVTjgTyVnMSUtW2Iktq/view?usp=sharing
+The weight of LLM-RG4 which can predict finding and impression (MIMIC-RG4) is in https://cloud.tsinghua.edu.cn/d/c5734b56b44d43e089a6/
 
-The weight of LLM-RG4 which only predict finding section (MIMIC-CXR) is in https://drive.google.com/file/d/1aCE7PSLwugz3TrN0vlnGRH4aVboI_3Qo/view?usp=sharing
+The weight of LLM-RG4 which only predict finding section (MIMIC-CXR) is in https://cloud.tsinghua.edu.cn/d/c5734b56b44d43e089a6/
 
 # Environment and Install
 Pyhon = 3.9 and torch = 2.1.0
